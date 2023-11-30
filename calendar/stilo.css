@@ -114,7 +114,7 @@ input{
 }
 header{
     transition: 0.7s;
-    position: fixed;
+    
     top: 0;
     left: 0;
     display: flex;
@@ -158,7 +158,8 @@ nav a{
 }
 .midText{
     color: #fff;
-    display: inline;
+    
+    display: block;
     font-weight: 400;
     font-size: 2.2rem;
 }
@@ -172,12 +173,12 @@ nav a{
 .Hall{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: start;
     position: relative;
     width: 100%;
     height: 100vh;
     opacity: 100%;
-    background-image: url(inicio.jpg);
+    
 
     background-size: cover;
     background-repeat: no-repeat;
