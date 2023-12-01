@@ -136,7 +136,7 @@ header{
 }
 .logo{
     color: #fff;
-    font-family: "Montserrat", sans-serif;
+    font-family: 'League Spartan';
     letter-spacing: 1.5px;
 
 }
@@ -237,7 +237,7 @@ nav a{
 }
 
 h1{
-    font-weight: 400;
+    font-weight: 500;
 }
 header.bajar{
     background-color: #000;

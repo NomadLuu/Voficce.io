@@ -125,12 +125,7 @@ header{
     align-items: center;
     z-index: 10;
 }
-.logo{
-    color: #fff;
-    font-family: "Montserrat", sans-serif;
-    letter-spacing: 1.5px;
 
-}
 .yo{
     width: 500px;
     height: 500px;
@@ -218,7 +213,7 @@ nav a{
 }
 
 h1{
-    font-weight: 400;
+    font-weight: 500;
 }
 header.bajar{
     background-color: #000;
@@ -382,4 +377,11 @@ i{
     100%{
         background-position-x:1000px ;
     }
+}
+.logo{
+    color: #fff;
+    font-family: 'League Spartan';
+    font-weight: 600;
+    letter-spacing: 1.5px;
+
 }
